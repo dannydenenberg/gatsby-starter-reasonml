@@ -15,6 +15,15 @@ If you’ve ever experienced the following, you would benefit from adopting a ty
 - Your IDE doesn’t know what methods and properties are available, so it cannot easily assist you with autocomplete.
 - Difficulty reasoning about code, type systems at a glance make it easier to refactor
 
+## Here's some code
+
+```typescript
+let a = 3;
+const b = async (x) => {
+  a = x;
+}
+```
+
 ## Flow, TypeScript, or ReasonML
 
 If you have an existing codebase that you wish to make bulletproof, with respect to type errors, you could try adopting Flow or TypeScript. They have a fairly similar syntax.
