@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby ReasonML Starter',
-    author: 'Ian Wilson',
+    title: 'Danny Denenberg',
+    author: 'Danny Denenberg',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
